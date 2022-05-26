@@ -19,3 +19,4 @@ print()
 result += "ish"
 print(id(result))
 print(id(another_result))
+ v
